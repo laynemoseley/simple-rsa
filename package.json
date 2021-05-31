@@ -1,0 +1,19 @@
+{
+  "name": "simple-rsa",
+  "version": "1.0.0",
+  "description": "simple rsa for cs6387",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laynemoseley/simple-rsa.git"
+  },
+  "author": "Layne Moseley",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prompt": "^1.1.0"
+  }
+}
