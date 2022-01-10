@@ -1,5 +1,4 @@
 var prompt = require("prompt");
-var { chunk } = require("lodash");
 
 prompt.start();
 prompt.get(["p", "q", "e", "d", "message"], function (err, result) {
